@@ -7,5 +7,6 @@
     <a href="https://stbhg5.tistory.com/709">배포(Deployment)란?</a><br/>
     <a href="https://stbhg5.tistory.com/710">EC2란? / EC2를 왜 배울까? / 현업에서 EC2는 주로 언제 쓸까?</a><br/>
     <a href="https://stbhg5.tistory.com/712">[실습] 1. 리전(Region) 선택하기</a><br/>
+    <a href="https://stbhg5.tistory.com/713">[실습] 2. EC2 셋팅하기 - 기본 설정</a><br/>
     <a href=""></a><br/>
     <br/>
