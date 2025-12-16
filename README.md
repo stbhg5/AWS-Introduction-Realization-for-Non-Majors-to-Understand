@@ -10,5 +10,6 @@
     <a href="https://stbhg5.tistory.com/713">[실습] 2. EC2 셋팅하기 - 기본 설정</a><br/>
     <a href="https://stbhg5.tistory.com/715">[실습] 3. EC2 셋팅하기 - 보안그룹 설정</a><br/>
     <a href="https://stbhg5.tistory.com/717">[보충 강의] IP와 Port의 개념</a><br/>
+    <a href="https://stbhg5.tistory.com/718">[실습] 4. EC2 셋팅하기 - 스토리지 구성</a><br/>
     <a href=""></a><br/>
     <br/>
