@@ -12,5 +12,6 @@
     <a href="https://stbhg5.tistory.com/717">[보충 강의] IP와 Port의 개념</a><br/>
     <a href="https://stbhg5.tistory.com/718">[실습] 4. EC2 셋팅하기 - 스토리지 구성</a><br/>
     <a href="https://stbhg5.tistory.com/719">[실습] 5. EC2 접속하기</a><br/>
+    <a href="https://stbhg5.tistory.com/720">[실습] 6. 탄력적 IP 연결하기</a><br/>
     <a href=""></a><br/>
     <br/>
