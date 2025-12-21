@@ -15,5 +15,9 @@
     <a href="https://stbhg5.tistory.com/720">[실습] 6. 탄력적 IP 연결하기</a><br/>
     <a href="https://stbhg5.tistory.com/721">[실습] 7. Express 서버를 EC2에 배포하기</a><br/>
     <a href="https://stbhg5.tistory.com/722">[보충 강의] 7-2. Spring Boot 서버를 EC2에 배포하기</a><br/>
+    <a href="https://stbhg5.tistory.com/723">비용 나가지 않게 EC2 깔끔하게 종료하기</a><br/>
+    <br/>
+
+<h2><h2/>
     <a href=""></a><br/>
     <br/>
