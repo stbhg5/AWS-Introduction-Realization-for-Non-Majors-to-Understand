@@ -18,6 +18,7 @@
     <a href="https://stbhg5.tistory.com/723">비용 나가지 않게 EC2 깔끔하게 종료하기</a><br/>
     <br/>
 
-<h2><h2/>
+<h2>2. 도메인 연결하기 (Route 53)<h2/>
+    <a href="https://stbhg5.tistory.com/724">Route 53이란? / DNS란? / 현업에서의 Route 53 활용 여부</a><br/>
     <a href=""></a><br/>
     <br/>
