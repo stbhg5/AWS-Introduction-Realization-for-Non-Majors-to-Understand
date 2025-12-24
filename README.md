@@ -21,5 +21,9 @@
 <h2>2. 도메인 연결하기 (Route 53)<h2/>
     <a href="https://stbhg5.tistory.com/724">Route 53이란? / DNS란? / 현업에서의 Route 53 활용 여부</a><br/>
     <a href="https://stbhg5.tistory.com/725">[실습] 0. Route 53에 연결할 EC2 생성하기</a><br/>
+    <a href="https://stbhg5.tistory.com/726">[실습] 1. Route 53에서 도메인 구매</a><br/>
+    <a href="https://stbhg5.tistory.com/727">[실습] 2. Route 53의 도메인을 EC2에 연결하기</a><br/>
+    <a href="https://stbhg5.tistory.com/728">[보충 강의] 무료로 도메인 구매하는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/729">[보충 자료] 비용 나가지 않게 Route 53 깔끔하게 종료하기</a><br/>
     <a href=""></a><br/>
     <br/>
