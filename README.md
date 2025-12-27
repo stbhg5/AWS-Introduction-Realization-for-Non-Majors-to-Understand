@@ -28,6 +28,6 @@
     <a href="https://stbhg5.tistory.com/730">ELB란? / TLS, SSL과 HTTPS</a><br/>
     <a href="https://stbhg5.tistory.com/731">ELB를 활용한 아키텍처 구성</a><br/>
     <a href="https://stbhg5.tistory.com/732">[실습] 1. ELB 셋팅하기 - 기본 구성</a><br/>
-    <a href="https://stbhg5.tistory.com/733">[실습] 2. ELB 셋팅하기 - 보안그룹</a><br/>
+    <a href="https://stbhg5.tistory.com/733">[실습] 2. ELB 셋팅하기 - 보안 그룹</a><br/>
     <a href=""></a><br/>
     <br/>
