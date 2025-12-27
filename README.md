@@ -27,5 +27,6 @@
     <a href="https://stbhg5.tistory.com/729">[보충 자료] 비용 나가지 않게 Route 53 깔끔하게 종료하기</a><br/>
     <a href="https://stbhg5.tistory.com/730">ELB란? / TLS, SSL과 HTTPS</a><br/>
     <a href="https://stbhg5.tistory.com/731">ELB를 활용한 아키텍처 구성</a><br/>
+    <a href="https://stbhg5.tistory.com/732">[실습] 1. ELB 셋팅하기 - 기본 구성</a><br/>
     <a href=""></a><br/>
     <br/>
