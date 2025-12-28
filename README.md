@@ -29,5 +29,7 @@
     <a href="https://stbhg5.tistory.com/731">ELB를 활용한 아키텍처 구성</a><br/>
     <a href="https://stbhg5.tistory.com/732">[실습] 1. ELB 셋팅하기 - 기본 구성</a><br/>
     <a href="https://stbhg5.tistory.com/733">[실습] 2. ELB 셋팅하기 - 보안 그룹</a><br/>
+    <a href="https://stbhg5.tistory.com/734">[실습] 3. ELB 셋팅하기 - 리스너 및 라우팅 / 헬스 체크</a><br/>
+    <a href="https://stbhg5.tistory.com/735">[실습] 4. ELB에 도메인 연결하기</a><br/>
     <a href=""></a><br/>
     <br/>
