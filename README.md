@@ -31,5 +31,6 @@
     <a href="https://stbhg5.tistory.com/733">[실습] 2. ELB 셋팅하기 - 보안 그룹</a><br/>
     <a href="https://stbhg5.tistory.com/734">[실습] 3. ELB 셋팅하기 - 리스너 및 라우팅 / 헬스 체크</a><br/>
     <a href="https://stbhg5.tistory.com/735">[실습] 4. ELB에 도메인 연결하기</a><br/>
+    <a href="https://stbhg5.tistory.com/736">[실습] 5. HTTPS 적용을 위해 인증서 발급받기</a><br/>
     <a href=""></a><br/>
     <br/>
