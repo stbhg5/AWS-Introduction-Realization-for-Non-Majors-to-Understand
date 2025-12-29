@@ -25,6 +25,9 @@
     <a href="https://stbhg5.tistory.com/727">[실습] 2. Route 53의 도메인을 EC2에 연결하기</a><br/>
     <a href="https://stbhg5.tistory.com/728">[보충 강의] 무료로 도메인 구매하는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/729">[보충 자료] 비용 나가지 않게 Route 53 깔끔하게 종료하기</a><br/>
+    <br/>
+    
+<h2>3. HTTPS 연결하기 (ELB)<h2/>
     <a href="https://stbhg5.tistory.com/730">ELB란? / TLS, SSL과 HTTPS</a><br/>
     <a href="https://stbhg5.tistory.com/731">ELB를 활용한 아키텍처 구성</a><br/>
     <a href="https://stbhg5.tistory.com/732">[실습] 1. ELB 셋팅하기 - 기본 구성</a><br/>
