@@ -37,5 +37,6 @@
     <a href="https://stbhg5.tistory.com/736">[실습] 5. HTTPS 적용을 위해 인증서 발급받기</a><br/>
     <a href="https://stbhg5.tistory.com/737">[실습] 6. ELB에 HTTPS 설정하기</a><br/>
     <a href="https://stbhg5.tistory.com/738">비용 나가지 않게 ELB 깔끔하게 종료하기</a><br/>
+    <a href="https://stbhg5.tistory.com/739">[보충 강의] HTTPS 연결 시 ELB vs Nginx, Certbot</a><br/>
     <a href=""></a><br/>
     <br/>
