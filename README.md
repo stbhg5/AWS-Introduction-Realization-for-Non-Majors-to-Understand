@@ -41,7 +41,7 @@
     <a href="https://stbhg5.tistory.com/740">[보충 강의] Nginx, Certbot을 활용해 HTTPS 연결하기</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. 데이터베이스 연결하기 (RDS)<h2/>
+    <a href="https://stbhg5.tistory.com/742">RDS란? / RDS를 왜 사용하는걸까? / 현업에서의 RDS</a><br/>
     <a href=""></a><br/>
     <br/>
