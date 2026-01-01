@@ -43,5 +43,6 @@
 
 <h2>4. 데이터베이스 연결하기 (RDS)<h2/>
     <a href="https://stbhg5.tistory.com/742">RDS란? / RDS를 왜 사용하는걸까? / 현업에서의 RDS</a><br/>
+    <a href="https://stbhg5.tistory.com/743">RDS를 활용한 아키텍처 구성</a><br/>
     <a href=""></a><br/>
     <br/>
