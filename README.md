@@ -45,5 +45,6 @@
     <a href="https://stbhg5.tistory.com/742">RDS란? / RDS를 왜 사용하는걸까? / 현업에서의 RDS</a><br/>
     <a href="https://stbhg5.tistory.com/743">RDS를 활용한 아키텍처 구성</a><br/>
     <a href="https://stbhg5.tistory.com/744">[실습] 1. RDS 생성하기</a><br/>
+    <a href="https://stbhg5.tistory.com/745">[실습] 2. ELB 세팅 - 보안그룹</a><br/>
     <a href=""></a><br/>
     <br/>
