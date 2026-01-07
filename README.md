@@ -50,5 +50,10 @@
     <a href="https://stbhg5.tistory.com/747">[실습] 4. RDS에 접속하기</a><br/>
     <a href="https://stbhg5.tistory.com/748">[실습] 5. Express 서버에 RDS 연결하기</a><br/>
     <a href="https://stbhg5.tistory.com/749">[실습] 5-2. Spring Boot 서버에 RDS 연결하기</a><br/>
+    <a href="https://stbhg5.tistory.com/750">비용 나가지 않게 RDS 깔끔하게 종료하기</a><br/>
+    <br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
