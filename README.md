@@ -49,5 +49,6 @@
     <a href="https://stbhg5.tistory.com/746">[실습] 3. 파라미터 그룹 추가하기</a><br/>
     <a href="https://stbhg5.tistory.com/747">[실습] 4. RDS에 접속하기</a><br/>
     <a href="https://stbhg5.tistory.com/748">[실습] 5. Express 서버에 RDS 연결하기</a><br/>
+    <a href="https://stbhg5.tistory.com/749">[실습] 5-2. Spring Boot 서버에 RDS 연결하기</a><br/>
     <a href=""></a><br/>
     <br/>
