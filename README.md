@@ -53,7 +53,8 @@
     <a href="https://stbhg5.tistory.com/750">비용 나가지 않게 RDS 깔끔하게 종료하기</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>5. 파일 및 이미지 업로드 (S3)<h2/>
+    <a href="https://stbhg5.tistory.com/751">S3란? / S3를 왜 사용하는걸까? / 현업에서 S3를 많이 사용할까?</a><br/>
+    <a href="https://stbhg5.tistory.com/752">S3를 활용한 아키텍처 구성</a><br/>
     <a href=""></a><br/>
     <br/>
