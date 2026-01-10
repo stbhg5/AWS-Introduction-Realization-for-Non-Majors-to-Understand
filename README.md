@@ -57,5 +57,6 @@
     <a href="https://stbhg5.tistory.com/751">S3란? / S3를 왜 사용하는걸까? / 현업에서 S3를 많이 사용할까?</a><br/>
     <a href="https://stbhg5.tistory.com/752">S3를 활용한 아키텍처 구성</a><br/>
     <a href="https://stbhg5.tistory.com/753">[실습] 1. S3 버킷 생성하기</a><br/>
+    <a href="https://stbhg5.tistory.com/754">[실습] 2. S3에 파일 업로드 할 수 있도록 IAM에서 액세스 키 발급받기</a><br/>
     <a href=""></a><br/>
     <br/>
