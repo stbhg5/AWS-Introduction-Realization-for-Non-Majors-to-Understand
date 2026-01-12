@@ -59,5 +59,11 @@
     <a href="https://stbhg5.tistory.com/753">[실습] 1. S3 버킷 생성하기</a><br/>
     <a href="https://stbhg5.tistory.com/754">[실습] 2. S3에 파일 업로드 할 수 있도록 IAM에서 액세스 키 발급받기</a><br/>
     <a href="https://stbhg5.tistory.com/755">[실습] 3. S3를 활용해 Express 서버에 이미지 업로드 기능 구현하기</a><br/>
+    <a href="https://stbhg5.tistory.com/756">[실습] 3-2. S3를 활용해 Spring Boot 서버에 이미지 업로드 기능 구현하기</a><br/>
+    <a href="https://stbhg5.tistory.com/757">비용 나가지 않게 S3 깔끔하게 종료하기</a><br/>
+    <br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
