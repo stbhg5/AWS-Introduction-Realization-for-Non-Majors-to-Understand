@@ -63,7 +63,8 @@
     <a href="https://stbhg5.tistory.com/757">비용 나가지 않게 S3 깔끔하게 종료하기</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>6. 웹 페이지 배포하기 (S3, Cloudfront)<h2/>
+    <a href="https://stbhg5.tistory.com/758">웹 서비스를 배포할 때 사용하는 S3, CloudFront</a><br/>
+    <a href="https://stbhg5.tistory.com/759">S3, CloudFront를 활용한 아키텍처 구성</a><br/>
     <a href=""></a><br/>
     <br/>
