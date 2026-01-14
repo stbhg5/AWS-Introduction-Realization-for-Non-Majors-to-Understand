@@ -66,5 +66,7 @@
 <h2>6. 웹 페이지 배포하기 (S3, Cloudfront)<h2/>
     <a href="https://stbhg5.tistory.com/758">웹 서비스를 배포할 때 사용하는 S3, CloudFront</a><br/>
     <a href="https://stbhg5.tistory.com/759">S3, CloudFront를 활용한 아키텍처 구성</a><br/>
+    <a href="https://stbhg5.tistory.com/760">[실습] 1. S3 버킷 셋팅하기</a><br/>
+    <a href="https://stbhg5.tistory.com/761">[실습] 2. S3에 업로드하기 / 웹 호스팅 설정하기</a><br/>
     <a href=""></a><br/>
     <br/>
