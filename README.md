@@ -68,5 +68,6 @@
     <a href="https://stbhg5.tistory.com/759">S3, CloudFront를 활용한 아키텍처 구성</a><br/>
     <a href="https://stbhg5.tistory.com/760">[실습] 1. S3 버킷 셋팅하기</a><br/>
     <a href="https://stbhg5.tistory.com/761">[실습] 2. S3에 업로드하기 / 웹 호스팅 설정하기</a><br/>
+    <a href="https://stbhg5.tistory.com/762">[실습] 3. CloudFront 생성하기</a><br/>
     <a href=""></a><br/>
     <br/>
