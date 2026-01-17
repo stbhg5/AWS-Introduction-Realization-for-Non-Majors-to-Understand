@@ -70,5 +70,10 @@
     <a href="https://stbhg5.tistory.com/761">[실습] 2. S3에 업로드하기 / 웹 호스팅 설정하기</a><br/>
     <a href="https://stbhg5.tistory.com/762">[실습] 3. CloudFront 생성하기</a><br/>
     <a href="https://stbhg5.tistory.com/763">[실습] 4. 도메인 연결하기, HTTPS 적용하기</a><br/>
+    <a href="https://stbhg5.tistory.com/764">비용 나가지 않게 S3, CloudFront 깔끔하게 종료하기</a><br/>
+    <br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
