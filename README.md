@@ -73,7 +73,7 @@
     <a href="https://stbhg5.tistory.com/764">비용 나가지 않게 S3, CloudFront 깔끔하게 종료하기</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>7. 최종 미션<h2/>
+    <a href="https://stbhg5.tistory.com/766">[최종 미션] 마지막 관문!</a><br/>
     <a href=""></a><br/>
     <br/>
