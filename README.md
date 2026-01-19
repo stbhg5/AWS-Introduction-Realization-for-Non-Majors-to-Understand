@@ -75,5 +75,10 @@
 
 <h2>7. 최종 미션<h2/>
     <a href="https://stbhg5.tistory.com/766">[최종 미션] 마지막 관문!</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/767">최종 미션 실행</a><br/>
+    <br/>
+
+<h2>8. 마무리<h2/>
+    <a href="https://stbhg5.tistory.com/768">[보충 강의] 혹시나 비용 나가지 않는 지 체크하는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/769">[보충 강의] Virtual Private Cloud(VPC) 비용 추적 방법</a><br/>
     <br/>
